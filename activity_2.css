@@ -1,0 +1,16 @@
+#linear{
+    height: 200px;
+    background:linear-gradient(to right, red,blue)
+}
+#linear_2{
+    height: 200px;
+    background: linear-gradient(to bottom right, red,blue);
+}
+#linear_3{
+    height: 200px;
+    background: linear-gradient(red 5%,green 15%,yellow 30%,blue 40%);
+}
+#radial_1{
+    height: 400px;
+    background: radial-gradient(circle,purple 30%,orange 60%,blue 70%);
+}
